@@ -1,0 +1,64 @@
+.dog {
+  width: 300px;
+  height: 700px;
+  float: left;
+  border: 6px solid gold;
+  margin: 10px;
+  padding: 5px;
+  background-color: burlywood;
+}
+.dog p {
+  font-family: monospace;
+  color: red;
+}
+.dog img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+}
+.cat {
+  width: 300px;
+  float: left;
+  border: 6px solid gold;
+  height: 700px;
+  margin: 10px;
+  padding: 5px;
+  background-color: burlywood;
+}
+.cat p {
+  color: blue;
+  font-family: cursive;
+}
+.cat img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+}
+.dragon {
+  width: 300px;
+  float: left;
+  border: 6px solid gold;
+  height: 700px;
+  margin: 10px;
+  padding: 5px;
+  background-color: burlywood;
+}
+.dragon p {
+  color: green;
+  font-family: fantasy;
+}
+.dragon img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+}
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: teal;
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: navajowhite;
+}
